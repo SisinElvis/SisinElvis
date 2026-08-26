@@ -28,6 +28,12 @@ I work on software and infrastructure problems that often sit between applicatio
 
 ## Selected public work
 
+### DukaFlow — Engineering Case Study
+
+Sanitized engineering case study of a multi-tenant business-management platform, covering tenant-scoped authorization, database RLS, offline POS state and synchronization, M-Pesa payment reliability, automated testing, and release qualification.
+
+[View the DukaFlow engineering case study](https://github.com/SisinElvis/dukaflow-engineering-case-study)
+
 ### Enterprise LAN Design & Resilience Lab
 
 Cisco Packet Tracer lab covering VLAN segmentation, inter-VLAN routing, HSRP, OSPF, DHCP, ACLs, EtherChannel, NAT/PAT, redundancy, and failover testing.
