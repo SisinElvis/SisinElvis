@@ -1,5 +1,7 @@
 # Elvis Sisin
 
+![Elvis Sisin terminal profile](./assets/terminal-profile.svg)
+
 ```text
 elvis@sisin:~$ whoami
 
