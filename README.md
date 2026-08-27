@@ -14,7 +14,7 @@ Sanitized engineering case study of a multi-tenant business-management platform,
 
 ### Enterprise LAN Design & Resilience Lab
 
-Cisco Packet Tracer lab covering VLAN segmentation, inter-VLAN routing, HSRP, OSPF, DHCP, ACLs, EtherChannel, NAT/PAT, redundancy, and failover testing.
+Cisco Packet Tracer campus LAN covering VLAN segmentation, HSRP gateway redundancy, OSPF path preference, split-scope DHCP, inter-VLAN ACLs, LACP, Rapid-PVST, and dual NAT/PAT edge routing.
 
 [View the network engineering project](https://github.com/SisinElvis/LAN_Project)
 
