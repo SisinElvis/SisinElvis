@@ -2,30 +2,6 @@
 
 ![Elvis Sisin terminal profile](./assets/terminal-profile.svg)
 
-```text
-elvis@sisin:~$ whoami
-
-Elvis Sisin
-Software & Infrastructure Engineer
-Nairobi, Kenya
-
-elvis@sisin:~$ focus
-
-Linux systems
-Backend engineering
-CI/CD
-Networking
-Production support
-
-elvis@sisin:~$ stack
-
-backend        TypeScript · Node.js · Next.js · NestJS
-data           PostgreSQL · Prisma · Supabase
-infrastructure Linux · Git · CI/CD · Vercel
-networking     TCP/IP · DNS · VLANs · Routing · Switching
-quality        Playwright · Vitest · API testing
-```
-
 I work on software and infrastructure problems that often sit between application code and the systems running it. My professional background is in IT operations and network support; my engineering projects extend that into backend development, databases, authorization, automated testing, CI/CD, and deployment verification.
 
 ## Selected public work
