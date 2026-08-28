@@ -69,7 +69,7 @@
 <text x="705" y="412" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="16" font-weight="400" fill="#d7dde5">Production support</text>
 <line x1="705" y1="456" x2="1352" y2="456" stroke="#2a2f36" stroke-width="1"/>
 <text x="705" y="488" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="17" font-weight="700" fill="#9aa4af">stack</text>
-<text x="705" y="522" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="15" font-weight="400" fill="#d7dde5">TypeScript · Node.js · Next.js · NestJS</text>
+<text x="705" y="522" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="15" font-weight="400" fill="#d7dde5">TypeScript ·NestJS</text>
 <text x="705" y="551" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="15" font-weight="400" fill="#d7dde5">PostgreSQL · Prisma · Supabase</text>
 <text x="705" y="580" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="15" font-weight="400" fill="#d7dde5">Linux · Git · CI/CD · Vercel</text>
 <text x="705" y="609" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="15" font-weight="400" fill="#d7dde5">TCP/IP · DNS · VLANs · Routing · Switching</text>
