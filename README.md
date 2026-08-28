@@ -4,7 +4,7 @@
 
 I work on software and infrastructure problems that often sit between application code and the systems running it. My professional background is in IT operations and network support; my engineering projects extend that into backend development, databases, authorization, automated testing, CI/CD, and deployment verification.
 
-## Selected public work
+## Public Projects
 
 ### DukaFlow — Engineering Case Study
 
